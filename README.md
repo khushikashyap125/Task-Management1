@@ -1,6 +1,6 @@
 # Task-Management
 
-#Task Manager – Full Stack CRUD App (Vue + Node.js + MongoDB)
+Task Manager – Full Stack CRUD App (Vue + Node.js + MongoDB)
 
 This is a full-stack **Task Management** web application built using **Vue.js** for the frontend, **Node.js + Express** for the backend, and **MongoDB** for the database. It allows users to **create, read, update, and delete tasks** in a clean and responsive interface.
 
